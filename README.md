@@ -1,1 +1,1 @@
-# Lifestle_Health_Classifier
+# Lifestyle_Health_Classifier
