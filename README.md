@@ -101,5 +101,4 @@ Feel free to fork this repo and submit a pull request. For major changes, please
 ---
 
 ## 📫 Contact
-Created with ❤️ by Bhavya Parmar
-Drop a ⭐ if you like the project!
+Created with ❤️ by Bhavya Parmar, Drop a ⭐ if you like the project!
