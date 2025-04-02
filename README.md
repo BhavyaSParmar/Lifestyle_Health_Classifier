@@ -1,7 +1,7 @@
 # Lifestyle_Health_Classifier
 
 An intelligent machine learning solution to classify individuals based on their smoking and alcohol consumption habits using health and lifestyle data.
-
+   
 ---
 
 ## 📌 Objective
